@@ -5,11 +5,22 @@
 <%@page import="spring.FrequenciaCardiacaAlvo" %>
 <html>
 <head>
+<style>
+	body{
+		background-image:url("https://i.pinimg.com/originals/21/b7/82/21b78225953c1f1f817da2d8c92f9aa9.jpg");
+		background-size:cover;
+		}
+	table{
+	text-align:center;
+
+
+}
+</style>
 <title>Lista de Pacientes</title>
 <meta charset="utf-8">
 </head>
 <body>
-	<table border="1">
+	<table border="1" align="center">
 		<tr>
 			<th>Id</th>
 			<th>Nome</th>

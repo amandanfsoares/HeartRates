@@ -22,10 +22,5 @@ public class Idade {
 		this.heart = heart;
 	}
 
-	@Override
-	public String toString() {
-		return "Idade: " + Calculo(heart) ;
-	}
-
 	
 	}
